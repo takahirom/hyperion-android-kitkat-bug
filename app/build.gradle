@@ -26,4 +26,15 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-core:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-attr:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-measurement:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-disk:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-recorder:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-phoenix:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-crash:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-shared-preferences:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-geiger-counter:0.9.22'
+    debugImplementation 'com.willowtreeapps.hyperion:hyperion-timber:0.9.22'
 }
